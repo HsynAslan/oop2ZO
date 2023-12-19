@@ -1,0 +1,3 @@
+﻿  zorunlu_odev2.cpp
+C:\Users\User\Desktop\2.zorunluOdev\zorunlu_odev2\zorunlu_odev2.cpp(124,22): warning C4244: 'başlatılıyor': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+  zorunlu_odev2.vcxproj -> C:\Users\User\Desktop\2.zorunluOdev\zorunlu_odev2\x64\Debug\zorunlu_odev2.exe
